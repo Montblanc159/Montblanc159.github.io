@@ -10,3 +10,17 @@ body {
 h1, h2, h3 {
   line-height: 1.2em;
 }
+
+.bgpsychedelic {
+  background-color: magenta;
+}
+
+.ppsychedelic {
+  color: blue;
+  font-family: papyrus;
+}
+
+.headpsychedelic {
+  color: green;
+  font-family: Comic;
+}
